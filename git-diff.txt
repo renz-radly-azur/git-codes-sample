@@ -1,0 +1,2 @@
+this is an untrack data - not yet staged.
+2 lines now - untracked changes
