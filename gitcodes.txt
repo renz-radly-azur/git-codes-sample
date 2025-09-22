@@ -1,9 +1,0 @@
-**Configure Git**
-
-- **git config --global user.name "Renz Radly Azur"** - to set a username
-- **git config --global user.email "sample@email.com"** - to set an email
-- **git config —list** - to display all configuration.
-- **git config [user.name](http://user.name) / [user.email](http://user.email)** - to display specific configuration.
-- **git help -a** - display all commands and description.
-
-**Note:** in updating an email or name **Globally** - you can use the same command. But for specific projects only just remove the “**—global**”.
